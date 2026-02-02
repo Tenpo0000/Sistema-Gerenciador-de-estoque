@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Página-1" id="667Hy3wgBh-KFdLrU2zQ">
+    <mxGraphModel dx="1205" dy="616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;hachureGap=4;fontFamily=Verdana;width=160;height=40;labelBackgroundColor=none;" value="Gerenciamento de estoque" vertex="1">
+          <mxGeometry height="410" width="802" x="120" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-4" edge="1" parent="1" source="6N2Nie1I_XmjaUnGJESu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;endArrow=none;endFill=0;dashed=1;labelBackgroundColor=none;fontColor=default;" target="6N2Nie1I_XmjaUnGJESu-3" value="&amp;lt;Extend&amp;gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Usuario&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="DashBoard" vertex="1">
+          <mxGeometry height="40" width="90" x="200" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-13" edge="1" parent="1" source="6N2Nie1I_XmjaUnGJESu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Relatórios" vertex="1">
+          <mxGeometry height="40" width="80" x="210" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Cadastros" vertex="1">
+          <mxGeometry height="40" width="90" x="200" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-12" edge="1" parent="1" source="6N2Nie1I_XmjaUnGJESu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="260" />
+            </Array>
+            <mxPoint x="180" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Ajuda" vertex="1">
+          <mxGeometry height="40" width="80" x="210" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-8" edge="1" parent="1" source="6N2Nie1I_XmjaUnGJESu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startArrow=none;startFill=0;endArrow=none;endFill=0;fontColor=default;labelBackgroundColor=none;" value="&lt;pre&gt;&amp;lt;Include&amp;gt;&lt;/pre&gt;">
+          <mxGeometry relative="1" x="-0.4286" y="-10" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="100" y="130" />
+            </Array>
+            <mxPoint x="100" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Empresa" vertex="1">
+          <mxGeometry height="40" width="90" x="303" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Produtos" vertex="1">
+          <mxGeometry height="40" width="90" x="406" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Funcionário" vertex="1">
+          <mxGeometry height="40" width="90" x="509" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Entrada" vertex="1">
+          <mxGeometry height="40" width="90" x="303" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Saída" vertex="1">
+          <mxGeometry height="40" width="90" x="411" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Cadastros" vertex="1">
+          <mxGeometry height="40" width="90" x="514" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Cadastros" vertex="1">
+          <mxGeometry height="40" width="90" x="303" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Cadastros" vertex="1">
+          <mxGeometry height="40" width="90" x="411" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Cadastros" vertex="1">
+          <mxGeometry height="40" width="90" x="519" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6N2Nie1I_XmjaUnGJESu-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;labelBackgroundColor=none;" value="Clientes" vertex="1">
+          <mxGeometry height="40" width="90" x="612" y="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
